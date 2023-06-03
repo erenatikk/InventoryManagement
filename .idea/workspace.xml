@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37beee0b-26e6-4701-962b-6e21be70a1ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory Management.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DatabaseConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InventoryManagementUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProductDAO.java" afterDir="false" />
-    </list>
+    <list default="true" id="37beee0b-26e6-4701-962b-6e21be70a1ae" name="Changes" comment="Arayüz ve Veritabanı operasyonları" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,12 +58,31 @@
       <updated>1683881755805</updated>
       <workItem from="1685608239493" duration="130000" />
       <workItem from="1685608380470" duration="1108000" />
-      <workItem from="1685775735706" duration="7379000" />
+      <workItem from="1685775735706" duration="7752000" />
     </task>
+    <task id="LOCAL-00001" summary="Arayüz ve Veritabanı operasyonları">
+      <created>1685788660750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685788660750</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Arayüz ve Veritabanı operasyonları">
+      <created>1685788706190</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685788706190</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Arayüz ve Veritabanı operasyonları" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arayüz ve Veritabanı operasyonları" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
